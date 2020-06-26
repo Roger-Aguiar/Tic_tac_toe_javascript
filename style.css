@@ -1,0 +1,21 @@
+/* 
+Name:         Roger Silva Santos Aguiar
+Function:     Style css for the grid.html file 
+Initial date: June 26, 2020
+Last update:  June 26, 2020 
+*/
+
+.grid
+{
+    width: 300px;
+    height: 300px;
+    border-style: solid;        
+    border-color: black;
+}
+
+button
+{
+    height: 32%;
+    width: 32%;
+    font-size: 90px
+}
